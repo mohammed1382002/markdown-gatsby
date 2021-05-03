@@ -30,7 +30,9 @@
     "name": "Blog",
     "items": [
       "blog/first-blog",
-      "blog/second-blog"
+      "blog/second-blog",
+      "blog/js-info",
+      "blog/premitives"
     ]
   }
 ]
