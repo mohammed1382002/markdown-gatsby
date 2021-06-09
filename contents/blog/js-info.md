@@ -9,7 +9,7 @@ hideAnchor: true
 [Previous Blog](/blog/second-blog)
 
 <h1 align="center">
-  JavaScript Modern Interview Code Challenges
+  JavaScript Modern Interview Code Challenges tested for CI/CD
 </h1>
 <div align="center">
     <img src="assets/banner.jpg" alt="banner" />
