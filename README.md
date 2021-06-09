@@ -1,4 +1,4 @@
-# Gatsby Markdown Starter
+# Gatsby Markdown Starter tested for CI/CD
 
 Boilerplate for markdown-based website (Documentation, Blog, etc.).  Based on [gatsby-default-starter](https://github.com/gatsbyjs/gatsby-starter-default).
 
