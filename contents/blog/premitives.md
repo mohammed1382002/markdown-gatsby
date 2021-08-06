@@ -10,7 +10,7 @@ hideAnchor: true
   <a href="/README.md#--javascript-modern-interview-code-challenges" id="home">Home</a>
 </div>
 
-## JavaScript interview code challenges on Primitives
+## JavaScript interview code challenges on Primitives (changed for testing)
 
 1. [Show the usage of `typeof` operator on different types of values](#Q1)
 2. [Show the different ways of concatenating numbers and strings](#Q2)
