@@ -4,6 +4,8 @@ Boilerplate for markdown-based website (Documentation, Blog, etc.).  Based on [g
 
 [live demo](https://cvluca.github.io/gatsby-starter-markdown)
 
+sample chanegd foe testing
+
 ## Features
 * Responsive Web Design
 * Sidebar
